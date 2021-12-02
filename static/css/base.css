@@ -1,0 +1,17 @@
+* {
+    background-color: rgba(255, 255, 255, 0.879);
+}
+body {
+    font-family: Roboto, sans-serif;
+    
+}
+h1 {
+    color: black;
+}
+
+.blog-new {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    flex-direction: column;
+}
